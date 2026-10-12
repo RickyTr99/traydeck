@@ -1,0 +1,4 @@
+# Gli eseguibili si pubblicano nelle Releases, non nel repository
+bin/
+*.exe
+*.pdb
